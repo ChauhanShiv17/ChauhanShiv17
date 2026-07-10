@@ -33,21 +33,7 @@ const ShivChauhan = {
       "Designed 20+ REST APIs",
       "Reduced response times by ~35% through SQL optimization",
     ],
-  },
-  stack: {
-    languages: ["Python", "C++", "JavaScript", "Kotlin", "PHP", "SQL"],
-    frontend: ["React", "Tailwind CSS", "Vite", "Jetpack Compose"],
-    backend: ["FastAPI", "Node.js", "Express", "CodeIgniter 4"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Room DB", "ChromaDB"],
-    devops: ["Docker", "Docker Compose", "Git", "GitHub Actions"],
-    aiMl: ["Scikit-learn", "Statsmodels", "Pandas", "Sentence Transformers", "Ollama"],
-    mobile: ["Android", "Jetpack Compose", "Material 3", "MVVM", "Kotlin Flow", "WorkManager"],
-  },
-  Projects: [
-    "Real-Time Stock Alert Engine",
-    "Chat with PDFs",
-    "Job Adda (MERN)",
-  ],
+  
   leadership and achievements: [
     "Secretary, Startup Cell - NIT Kurukshetra",
     "SIH Campus Coordinator (400+ participants)",
