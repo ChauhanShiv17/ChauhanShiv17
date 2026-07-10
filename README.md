@@ -22,7 +22,7 @@
 ## 🧠 Who I Am
 
 ```typescript
-const shivChauhan = {
+const Shiv_Chauhan = {
   title: "Aspiring SDE | Graduate CS Student from NIT Kurukshetra",
   stack: {
     languages: ["Python", "C++", "JavaScript", "Kotlin", "PHP", "SQL"],
@@ -138,16 +138,7 @@ const shivChauhan = {
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChauhanShiv17&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" width="48%" />
-
-
-</div>
-
-<br/>
 
 ## 📈 Contribution Activity
 
