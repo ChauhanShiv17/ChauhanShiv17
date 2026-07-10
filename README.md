@@ -25,20 +25,23 @@
 const shivChauhan = {
   title: "Aspiring SDE | Graduate CS Student from NIT Kurukshetra",
   stack: {
-    languages: ["Python", "C++", "JavaScript"],
-    frontend: ["React"],
-    backend: ["FastAPI", "Node.js"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    devops: ["Docker"],
+    languages: ["Python", "C++", "JavaScript", "Kotlin", "PHP", "SQL"],
+    frontend: ["React", "Tailwind CSS", "Vite", "Jetpack Compose"],
+    backend: ["FastAPI", "Node.js", "Express", "CodeIgniter 4"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Room DB", "ChromaDB"],
+    devops: ["Docker", "Docker Compose", "Git", "GitHub Actions"],
+    aiMl: ["Scikit-learn", "Statsmodels", "Pandas", "Sentence Transformers", "Ollama"],
+    mobile: ["Android", "Jetpack Compose", "Material 3", "MVVM", "Kotlin Flow", "WorkManager"],
   },
-  launchedProjects: [
+  Projects: [
     "Real-Time Stock Alert Engine",
     "Job Adda (MERN)",
     "Chat with PDFs",
+    "And others too which you can check in repos",
   ],
-  certifications: [],
+  //certifications: [],
   status: "Actively building & shipping backend systems",
-  openTo: ["SDE Roles", "Backend Engineering", "Collaboration"],
+  openTo: ["SDE Roles", "Full Stack Engineering", "AI & ML Engineering", "Collaboration"],
 };
 ```
 
@@ -114,19 +117,27 @@ const shivChauhan = {
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=py,cpp,js)
+![Languages](https://skillicons.dev/icons?i=py,cpp,js,kotlin,php)
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react)
+![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite)
 
 **Backend / Infra**
 
-![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,docker)
+![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,docker)
 
 **AI / Databases**
 
-![AI/DB](https://skillicons.dev/icons?i=postgres,mongodb,redis)
+![AI/DB](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sklearn,pandas)
+
+**Mobile**
+
+![Mobile](https://skillicons.dev/icons?i=kotlin,androidstudio)
+
+**Dev Tools**
+
+![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 <br/>
 
@@ -137,18 +148,6 @@ const shivChauhan = {
 <img src="https://github-readme-stats.vercel.app/api?username=ChauhanShiv17&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanShiv17&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" width="48%" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ChauhanShiv17&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ChauhanShiv17&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 <br/>
