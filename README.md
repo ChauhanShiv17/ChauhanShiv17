@@ -22,8 +22,18 @@
 ## 🧠 Who I Am
 
 ```typescript
-const Shiv_Chauhan = {
+const ShivChauhan = {
   title: "Aspiring SDE | Graduate CS Student from NIT Kurukshetra",
+  education: "B.Tech in Computer Science Engineering, NIT Kurukshetra (2022 - 2026)",
+  experience: {
+    role: "Software Engineering Intern",
+    company: "NHPC Limited (PSU, Govt. of India)",
+    highlights: [
+      "Built a role-based CMS in PHP CodeIgniter",
+      "Designed 20+ REST APIs",
+      "Reduced response times by ~35% through SQL optimization",
+    ],
+  },
   stack: {
     languages: ["Python", "C++", "JavaScript", "Kotlin", "PHP", "SQL"],
     frontend: ["React", "Tailwind CSS", "Vite", "Jetpack Compose"],
@@ -35,13 +45,22 @@ const Shiv_Chauhan = {
   },
   Projects: [
     "Real-Time Stock Alert Engine",
-    "Job Adda (MERN)",
     "Chat with PDFs",
-    "And others too which you can check in repos",
+    "Job Adda (MERN)",
   ],
-  //certifications: [],
+  leadership and achievements: [
+    "Secretary, Startup Cell - NIT Kurukshetra",
+    "SIH Campus Coordinator (400+ participants)",
+    "Solved 300+ DSA problems on different platforms",
+    "Organizing & Video Editing Team, TEDxNITKKR",
+    "Creative Lead, Photography Club",
+  ],
+  otherInterests: [
+    "Travel & cinematic photography (Instagram: @via.shiv)",
+    "Award-winning photography work",
+  ],
   status: "Actively building & shipping backend systems",
-  openTo: ["SDE Roles", "Full Stack Engineering", "AI & ML Engineering", "Collaboration"],
+  openTo: ["SDE Roles", "Full Stack Engineer", "AIML Roles" , "Collaboration"],
 };
 ```
 
