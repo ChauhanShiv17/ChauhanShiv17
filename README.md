@@ -54,7 +54,6 @@ const shivChauhan = {
 
 <div align="left">
 <a href="https://github.com/ChauhanShiv17/stock-alert-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanShiv17&repo=stock-alert-engine&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 </a>
 </div>
 
@@ -76,7 +75,6 @@ const shivChauhan = {
 
 <div align="left">
 <a href="https://github.com/ChauhanShiv17/job-adda-mern">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanShiv17&repo=job-adda-mern&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 </a>
 </div>
 
@@ -97,7 +95,6 @@ const shivChauhan = {
 
 <div align="left">
 <a href="https://github.com/ChauhanShiv17/chat-with-pdfs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanShiv17&repo=chat-with-pdfs&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 </a>
 </div>
 
@@ -146,7 +143,7 @@ const shivChauhan = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ChauhanShiv17&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanShiv17&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" width="48%" />
+
 
 </div>
 
